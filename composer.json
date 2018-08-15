@@ -20,7 +20,7 @@
   "require": {
     "php": "^5.5|^7.0",
     "symfony/framework-bundle": "~3.0||~4.0",
-    "jms/payment-core-bundle": "~2.0",
+    "jms/payment-core-bundle": "~1.0 || ~2.0",
     "psr/log": "~1.0",
     "doctrine/orm": "~2.5",
     "ticketswap/omnipay-przelewy24": "~2.0"
